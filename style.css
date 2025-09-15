@@ -1,8 +1,9 @@
 body{
-    height: 100vh;
+    min-height: 100vh;
     padding: 0.4rem 2rem;
     font-family: Arial, sans-serif;
-    overflow-y: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 .judul{
     margin: 2rem 0;
