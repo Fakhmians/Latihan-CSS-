@@ -24,11 +24,11 @@ body{
 .portfolio{
     margin: 3rem auto;
     display: flex;
+    gap: 1rem;
 }
 
 
 .box {
-    margin-left: 0.9rem;
     border: 1px solid black;
     width: 25%;
     border-radius: 8px;
